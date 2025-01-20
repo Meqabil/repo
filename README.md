@@ -9,3 +9,6 @@ this is a new repo just for learn
   - m
   - n
      - other
+   
+[] not yet
+[x] almost there
