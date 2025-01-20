@@ -10,5 +10,5 @@ this is a new repo just for learn
   - n
      - other
    
-[] not yet
-[x] almost there
+- [] not yet .
+- [x] almost there .
